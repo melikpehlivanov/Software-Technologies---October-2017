@@ -13,7 +13,7 @@ The "Software Technologies" course provides initial knowledge of the most used s
 ## Exercises.
 1. <a href=""> HTML5 and CSS: Basic Tags, Basic Styling, Forms, Simple Sites - Lab </a> 
 2. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/HTML5%20and%20CSS%20-%20Exercises"> HTML5 and CSS - Exercises </a> 
-3. <a href=""> HTML5 and CSS - Blog Design - Lab </a> 
+3. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/SoftUniBlog"> HTML5 and CSS - Blog Design - Lab </a> 
 4. <a href=""> HTML5 and CSS - Exercises (Slice and Dice the Blog Web Design) </a>
 5. <a href=""> JavaScript: Syntax and Basic Web - Lab </a>
 6. <a href=""> JavaScript: Syntax and Basic Web - Exercises </a>
