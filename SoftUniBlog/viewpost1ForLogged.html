@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SoftUni Blog</title>
+    <link rel="stylesheet" href="styles/style.css">
+    <script src="scripts/jquery.js"></script>
+    <script src="scripts/bootstrap.js"></script>
+</head>
+<body>
+<header>
+
+    <div class="navbar navbar-default navbar-fixed-top text-uppercase">
+        <div class="container">
+            <div class="navbar-header">
+                <a href="indexlogged.html" class="navbar-brand">SoftUni Blog</a>
+
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="indedx.html">Welcome (User)</a></li>
+                    <li><a href="createnewpost.html">New Post</a></li>
+                    <li><a href="index.html">LOGOUT</a></li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+</header>
+
+<main>
+    <div class="container body-content">
+        <div class="row">
+            <div class="col-md-12">
+                <article>
+                    <header>
+                        <h2>Why choosing the Right Storage Infrastructure.</h2>
+                    </header>
+
+                    <p>
+                        In our technology-driven world, it takes more than good ideas to be successful. Uber, for example, didn’t need to invent a new technology to build its business. The company just took
+
+                        advantage of the explosion of smartphones and mobile applications to design a compelling customer experience and invent a new way of doing business.
+                        But this isn’t just about Uber being able to execute a good idea. It’s also about the inability of the cab industry to act quickly to transform its own business models to compete. Did they have time to respond to the market disruption that Uber represents? Absolutely. But they needed an IT infrastructure that would allow them to pivot when the inevitable disruption arrived and they didn’t have that. The lesson here is: Whether you are a Fortune 50 or 1000 company, everyone is at risk of missing a market opportunity, not securing their enterprise, and being disrupted by a new idea or business model.
+                        The path to success is not always easy. There are numerous IT challenges to overcome, like these:
+                        Time-consuming infrastructure provisioning: Because of the complex IT process, developers often have to wait several days or weeks before getting their hands-on necessary IT infrastructure to develop and test applications. To cut through the IT red tape, developers go to the cloud where they can access the desired infrastructure in a matter of minutes with few clicks. This creates undesired shadow IT effect.
+                        Disparity between Dev and Ops environments: For good reasons, Development (Dev) and Production (Ops) environments are often kept separate so it is not uncommon to find variance between those environments. It may not always be possible for the Ops teams to provide the Dev team access to the production environment and it is too time consuming to copy production datasets over to Dev environments which leaves developers with stale datasets to test against. Therefore, an application that worked fine on a Dev environment may or may not work in Ops. This can lead to longer release and bug fix cycles, customer dissatisfaction, revenue impact and ultimately finger pointing between Dev and Ops teams which erodes trust.
+                        Safety-at-all-cost approach: How often do we see a newer version of an OS or a database come to market? Few and far between, right? That is because enterprises have the mindset of fewer but stable application releases to avoid failing in production. This also means slower time-to-market and the risk of being disrupted.
+                        DevOps – a cultural shift
+                        Success today is defined by the ability to turn ideas into value faster than your competition, how quickly you can experiment, fail fast, learn fast, test, tune and make it better. The behavior of developers is to make changes and enhance the application to generate revenue streams. Operations, on the other hand, is all about stability and reliability to keep business running 24/7. So how can you reconcile these two conflicting views and reduce friction between the teams? Enter DevOps.
+                        DevOps is not a technology but it is a process and a mindset change to promote collaboration between Dev and Ops teams. According to research from Puppet Labs, IT organizations embracing DevOps deploy 200x more frequently, have 24x faster recovery times, 3x lower failure rates and spend 22% less time on unplanned work and rework. This is not a coincidence because these organizations have implemented a process of Continuous Integration and Continuous Deployment (CI and CD) where every step of the application lifecycle from development to deployment is automated with feedback loops for continuous improvement.
+
+                        There are several toolchains involved in the automation process. Here’s a simplified example for the sake of illustrating concept: The developer checks the application code into a repository such as github. As soon as the code is committed, tools such as Jenkins automate the build and test process. Upon successful test execution, the application is moved to the “Staging” area before it is deployed into Production. Feedback is provided to the application development teams at every step of the way. This is the Continuous Integration (CI) process. Deployment into Production can also be automated where the application is constantly monitored, scaled and supported by the Ops teams, a process often referred to as Continuous Deployment (CD).
+                        While there is significant automation in the software development and deployment part, without infrastructure automation, the DevOps process is still suboptimal.
+                        Let’s look now at how a solid IT infrastructure can break down the barriers we talked about earlier.
+                        Infrastructure automation
+                        Today, developers expect same level of efficiency, ease of access and disposal of infrastructure similar to hyperscale cloud environments. Therefore, every part of the infrastructure should be composable and accessible as a line of code. With HPE OneView, you can automate entire “Infrastructure-as-code” using your favorite configuration management tools such as Chef, Puppet or Ansible and deploy IT resources for any workload easily within few minutes, a task that used to take several days to weeks to deploy. A great example of Composable Infrastructure is HPE Synergy which includes HPE 3PAR StoreServ flash storage and software-defined storage StoreVirtual VSA as storage building blocks. The RESTful APIs from Storage platform are then exposed to automation tools via HPE OneView for storage provisioning, management etc.
+                        Containers and “application portability”
+                        I was at DockerCon two weeks ago and haven’t seen any other technology in the recent past that has created as much excitement as containers and Docker in particular. There are many reasons to get excited about containers. Unlike VMs, containers are light weight, deliver better application density per server, start and stop rapidly in a few seconds and share same OS layer.
+                        Because containers wrap the entire application and associated dependencies, they enable workload portability. That is, an application running inside a container on a developer laptop can run seamlessly in a QA or production environment, and in the cloud. Application portability is one of the popular reasons for using containers in a DevOps environment.
+                        Originally, containers were mostly used by stateless applications such as load balancers, web servers, monitoring applications, etc. and data persistence didn’t matter. As increasingly stateful applications such as databases are containerized, data persistence becomes a key requirement. To enable container data persistence on HPE Storage (3PAR and StoreVirtual), we have a created a Native Docker Volume plugin to attach external volumes to containers. When the containers are migrated to different hosts by orchestration tools, the volume will automatically reattach to the container thus allowing persistent volumes to follow containers. Data is available to applications beyond the lifecycle of container itself. Also, when you have the container volume on a modern storage platform such as 3PAR you get enterprise grade capabilities such as 99.9999% data availability, data reduction capabilities and data services, etc. that you expect for containers in production.
+                    </p>
+
+                    <small class="author">
+                        <p>Melik Pehlivanov</p>
+                    </small>
+
+                    <footer>
+                        <div class="pull-right">
+                            <a class="btn btn-default btn-xs" href="indexlogged.html">back &raquo;</a>
+                        </div>
+                    </footer>
+                </article>
+            </div>
+        </div>
+    </div>
+
+</main>
+
+<footer>
+    <div class="container modal-footer">
+        <p>&copy; 2017 - Software University Foundation</p>
+    </div>
+</footer>
+</body>
+</html>
