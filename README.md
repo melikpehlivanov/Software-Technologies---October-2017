@@ -23,8 +23,8 @@ The "Software Technologies" course provides initial knowledge of the most used s
 11. <a href=""> JavaScript: Blog Basic Functionality - Exercises </a>
 12. <a href=""> PHP: Syntax and Basic Web - Lab </a>
 13. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/PHP%20-%20Syntax%2C%20Basic%20Web%20-%20Exercise"> PHP: Syntax and Basic Web - Exercises </a>
-13. <a href=""> PHP: MVC & Symfony Overview  - Lab </a>
-14. <a href=""> PHP: MVC & Symfony Overview - Exercises </a>
+13. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/PHP%20MVC%20%26%20Symfony%20-%20(Lab)%20Exercises"> PHP: MVC & Symfony Overview  - Lab </a>
+14. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/PHP%20MVC%20%26%20Symfony%20-%20(Lab)%20Exercises"> PHP: MVC & Symfony Overview - Exercises </a>
 15. <a href=""> PHP: Blog Basic Functionality - Lab  </a>
 16. <a href=""> PHP: Blog Basic Functionality - Exercises </a>
 17. <a href=""> Java: Basic Syntax - Lab </a>
