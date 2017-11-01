@@ -25,8 +25,8 @@ The "Software Technologies" course provides initial knowledge of the most used s
 13. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/PHP%20-%20Syntax%2C%20Basic%20Web%20-%20Exercise"> PHP: Syntax and Basic Web - Exercises </a>
 13. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/PHP%20MVC%20%26%20Symfony%20-%20(Lab)%20Exercises"> PHP: MVC & Symfony Overview  - Lab </a>
 14. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/PHP%20MVC%20%26%20Symfony%20-%20(Lab)%20Exercises"> PHP: MVC & Symfony Overview - Exercises </a>
-15. <a href=""> PHP: Blog Basic Functionality - Lab  </a>
-16. <a href=""> PHP: Blog Basic Functionality - Exercises </a>
+15. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/PHP%20Blog%20Basic%20Functionality%20%2B%20Blog%20Admin%20Functionality%20-%20(Lab)%20%2B%20Exercises/Blog"> PHP: Blog Basic Functionality - Lab  </a>
+16. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/PHP%20Blog%20Basic%20Functionality%20%2B%20Blog%20Admin%20Functionality%20-%20(Lab)%20%2B%20Exercises/Blog"> PHP: Blog Basic Functionality - Exercises </a>
 17. <a href=""> Java: Basic Syntax - Lab </a>
 18. <a href=""> Java: Basic Syntax - Exercises  </a>
 19. <a href=""> Java: Basic Web - Lab </a>
