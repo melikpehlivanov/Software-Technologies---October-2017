@@ -1,4 +1,4 @@
-function turnObjectIntoJSONString(args) {
+function solve(args) {
 
     let object = {};
 
