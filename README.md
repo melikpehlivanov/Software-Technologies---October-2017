@@ -16,7 +16,7 @@ The "Software Technologies" course provides initial knowledge of the most used s
 3. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/SoftUniBlog"> HTML5 and CSS - Blog Design - Lab </a> 
 4. <a href=""> HTML5 and CSS - Exercises (Slice and Dice the Blog Web Design) </a>
 5. <a href=""> JavaScript: Syntax and Basic Web - Lab </a>
-6. <a href=""> JavaScript: Syntax and Basic Web - Exercises </a>
+6. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/JavaScript%20Basics%20-%20Exercises"> JavaScript: Syntax and Basic Web - Exercises </a>
 7. <a href=""> JavaScript: ExpressJS Overview - Lab </a>
 9. <a href=""> JavaScript: ExpressJS Overview - Exercises </a>
 10. <a href=""> JavaScript: Blog Basic Functionality - Lab </a>
