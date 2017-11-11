@@ -19,8 +19,8 @@ The "Software Technologies" course provides initial knowledge of the most used s
 6. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/JavaScript%20Basics%20-%20Exercises"> JavaScript: Syntax and Basic Web - Exercises </a>
 7. <a href=""> JavaScript: ExpressJS Overview - Lab </a>
 9. <a href=""> JavaScript: ExpressJS Overview - Exercises </a>
-10. <a href=""> JavaScript: Blog Basic Functionality - Lab </a>
-11. <a href=""> JavaScript: Blog Basic Functionality - Exercises </a>
+10. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/JavaScript%20-%20Blog%20Basic%20Functionality%20%2B%20%20Blog%20Admin%20Functionality%20-%20(Lab)%20%2B%20Exercises%20-%20(SoftUni%20Blog)"> JavaScript: Blog Basic Functionality - Lab </a>
+11. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/JavaScript%20-%20Blog%20Basic%20Functionality%20%2B%20%20Blog%20Admin%20Functionality%20-%20(Lab)%20%2B%20Exercises%20-%20(SoftUni%20Blog)"> JavaScript: Blog Basic Functionality - Exercises </a>
 12. <a href=""> PHP: Syntax and Basic Web - Lab </a>
 13. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/PHP%20-%20Syntax%2C%20Basic%20Web%20-%20Exercise"> PHP: Syntax and Basic Web - Exercises </a>
 13. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/PHP%20MVC%20%26%20Symfony%20-%20(Lab)%20Exercises"> PHP: MVC & Symfony Overview  - Lab </a>
