@@ -31,8 +31,8 @@ The "Software Technologies" course provides initial knowledge of the most used s
 18. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/JavaScript%20Basics%20-%20Exercises"> Java: Basic Syntax - Exercises  </a>
 19. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/Java%20Basic%20Web%20-%20(Calculator)"> Java: Basic Web - Lab </a>
 20. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/Java%20Basic%20Web%20-%20(Calculator)"> Java: Basic Web - Exercises  </a>
-21. <a href=""> Java: Blog Basic Functionality - Lab </a>
-22. <a href=""> Java: Blog Basic Functionality - Exercises </a>
+21. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/Java%20Blog%20Basic%20Functionality%20-%20(SoftUni%20Blog)"> Java: Blog Basic Functionality - Lab </a>
+22. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/Java%20Blog%20Basic%20Functionality%20-%20(SoftUni%20Blog)"> Java: Blog Basic Functionality - Exercises </a>
 23. <a href=""> C#: ASP.NET MVC Overview - Lab </a>
 24. <a href=""> C#: ASP.NET MVC Overview - Exercises </a>
 25. <a href=""> C#: Blog Basic Functionality - Lab </a>
