@@ -45,4 +45,3 @@ The license for all projects and exercises is <a href="https://github.com/melikp
 29. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/ExamPrep%20III%20-%20Kanban%20Board"> Exam Preparation III </a>
 30. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/Practical%20Exam%2021%20December%202017"> Practical Exam </a>
 
-<a href="https://gifs.com/gif/add-text-document-0V2X4v">
