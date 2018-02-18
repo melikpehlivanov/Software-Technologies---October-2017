@@ -12,7 +12,6 @@ The "Software Technologies" course provides initial knowledge of the most used s
 ---
 The license for all projects and exercises is <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/blob/master/LICENSE"> MIT. </a>
 
-
 ## Exercises.
 1. <a href=""> HTML5 and CSS: Basic Tags, Basic Styling, Forms, Simple Sites - Lab </a> 
 2. <a href="https://github.com/melikpehlivanov/Software-Technologies---October-2017/tree/master/HTML5%20and%20CSS%20-%20Exercises"> HTML5 and CSS - Exercises </a> 
